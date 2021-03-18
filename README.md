@@ -1,5 +1,6 @@
 # DOM warmup
-
+<small style="color: gray">This was warmup work from <span title="General Assembly">GA</span></small>
+<br><br>
 ## About Me
 
 Every webpage needs an "About Me" section.
